@@ -19,6 +19,79 @@
 [![](https://visitcount.itsvg.in/api?id=imgirish179&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-94.91%20thousand%20lines%20of%20code-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 573 Bytes Used in GitHub's Storage 
+ > 
+> 🏆 2 Contributions in the Year 2026
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 2 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                69 commits          █████████░░░░░░░░░░░░░░░░   36.90 % 
+🌆 Daytime                22 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
+🌃 Evening                87 commits          ████████████░░░░░░░░░░░░░   46.52 % 
+🌙 Night                  9 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.81 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   67 commits          █████████░░░░░░░░░░░░░░░░   35.83 % 
+Tuesday                  4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
+Wednesday                1 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
+Thursday                 2 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
+Friday                   34 commits          █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
+Saturday                 8 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 % 
+Sunday                   71 commits          █████████░░░░░░░░░░░░░░░░   37.97 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in TypeScript** 
+
+```text
+TypeScript               2 repos             ████████████░░░░░░░░░░░░░   50.00 % 
+Python                   1 repo              ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+JavaScript               1 repo              ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/imgirish179/imgirish179/master/assets/bar_graph.png)
+
+
+ Last Updated on 01/02/2026 13:56:18 UTC
 <!--END_SECTION:waka-->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
