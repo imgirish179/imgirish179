@@ -19,15 +19,13 @@
 [![](https://visitcount.itsvg.in/api?id=imgirish179&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-94.91%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 573 Bytes Used in GitHub's Storage 
+> 📦 591 Bytes Used in GitHub's Storage 
  > 
 > 🏆 2 Contributions in the Year 2026
  > 
@@ -64,16 +62,17 @@ Sunday                   71 commits          █████████░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 20 mins             ████████████████░░░░░░░░░   62.60 % 
+YAML                     12 mins             █████████░░░░░░░░░░░░░░░░   37.40 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  32 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+imgirish179              32 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      32 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -91,7 +90,7 @@ JavaScript               1 repo              ██████░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/imgirish179/imgirish179/master/assets/bar_graph.png)
 
 
- Last Updated on 01/02/2026 13:56:18 UTC
+ Last Updated on 02/02/2026 01:52:32 UTC
 <!--END_SECTION:waka-->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
