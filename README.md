@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Rails<br>👯 I’m looking to collaborate on Backend Development and Machine Learning<br>🌱 I’m currently learning Flask
+🔭 I’m currently working on Rails<br>👯 I’m looking to collaborate on Backend Development and Machine Learning<br>🌱 I’m currently learning Flask and Vue JS
 
 
 # 💻 Tech Stack:
