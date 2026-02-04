@@ -12,14 +12,6 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Repos
-
-![Repos I created](https://github-contrib-stats.vercel.app/imgirish179/created.svg?max_repos=3)
-
-![Repos I max contributed to](https://github-contrib-stats.vercel.app/imgirish179/contributed.svg?max_repos=3)
-
-<!-- ![Stats](https://github-contributor-stats.vercel.app/api?username=imgirish179&limit=5&theme=dark&combine_all_yearly_contributions=true) -->
-
 ---
 [![](https://visitcount.itsvg.in/api?id=imgirish179&icon=0&color=0)](https://visitcount.itsvg.in)
 
@@ -93,13 +85,6 @@ TypeScript               2 repos             ███████████�
 Python                   1 repo              ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
 JavaScript               1 repo              ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
 ```
-
-
-
-<!-- **Timeline** -->
-
-<!-- ![Lines of Code chart](https://raw.githubusercontent.com/imgirish179/imgirish179/master/assets/bar_graph.png) -->
-
 
  Last Updated on 04/02/2026 01:46:17 UTC
 <!--END_SECTION:waka-->
