@@ -26,13 +26,13 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-32%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-41-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-51-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-9.43%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 597 Bytes Used in GitHub's Storage 
+> 📦 609 Bytes Used in GitHub's Storage 
  > 
 > 🏆 3 Contributions in the Year 2026
  > 
@@ -69,17 +69,21 @@ Sunday                   0 commits           ░░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Markdown                 20 mins             ████████████████░░░░░░░░░   62.60 % 
-YAML                     12 mins             █████████░░░░░░░░░░░░░░░░   37.40 % 
+Markdown                 50 mins             █████████████░░░░░░░░░░░░   53.21 % 
+Python                   25 mins             ███████░░░░░░░░░░░░░░░░░░   27.08 % 
+YAML                     12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.07 % 
+Text                     4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.21 % 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
 
 🔥 Editors: 
-VS Code                  32 mins             █████████████████████████   100.00 % 
+VS Code                  1 hr 34 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-imgirish179              32 mins             █████████████████████████   100.00 % 
+microblog                1 hr 1 min          ████████████████░░░░░░░░░   65.06 % 
+imgirish179              32 mins             █████████░░░░░░░░░░░░░░░░   34.94 % 
 
 💻 Operating System: 
-Mac                      32 mins             █████████████████████████   100.00 % 
+Mac                      1 hr 34 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -97,7 +101,7 @@ JavaScript               1 repo              ██████░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/imgirish179/imgirish179/master/assets/bar_graph.png)
 
 
- Last Updated on 03/02/2026 01:51:37 UTC
+ Last Updated on 04/02/2026 01:46:17 UTC
 <!--END_SECTION:waka-->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
