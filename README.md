@@ -18,7 +18,7 @@
 
 ![Repos I max contributed to](https://github-contrib-stats.vercel.app/imgirish179/contributed.svg?max_repos=3)
 
-![Stats](https://github-contributor-stats.vercel.app/api?username=imgirish179&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<!-- ![Stats](https://github-contributor-stats.vercel.app/api?username=imgirish179&limit=5&theme=dark&combine_all_yearly_contributions=true) -->
 
 ---
 [![](https://visitcount.itsvg.in/api?id=imgirish179&icon=0&color=0)](https://visitcount.itsvg.in)
@@ -96,9 +96,9 @@ JavaScript               1 repo              ██████░░░░░�
 
 
 
-**Timeline**
+<!-- **Timeline** -->
 
-![Lines of Code chart](https://raw.githubusercontent.com/imgirish179/imgirish179/master/assets/bar_graph.png)
+<!-- ![Lines of Code chart](https://raw.githubusercontent.com/imgirish179/imgirish179/master/assets/bar_graph.png) -->
 
 
  Last Updated on 04/02/2026 01:46:17 UTC
