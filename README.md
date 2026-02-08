@@ -87,13 +87,6 @@ Java                     1 repo              ████░░░░░░░�
 JavaScript               1 repo              ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
 ```
 
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/imgirish179/imgirish179/master/assets/bar_graph.png)
-
-
  Last Updated on 08/02/2026 02:10:39 UTC
 <!--END_SECTION:waka-->
 
