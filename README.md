@@ -61,16 +61,20 @@ Sunday                   2 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+HTML                     6 mins              █████████████░░░░░░░░░░░░   50.97 % 
+JavaScript               3 mins              ███████░░░░░░░░░░░░░░░░░░   26.80 % 
+Markdown                 2 mins              █████░░░░░░░░░░░░░░░░░░░░   19.73 % 
+Python                   0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  13 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+microblog                9 mins              ██████████████████░░░░░░░   73.20 % 
+mad-ii                   3 mins              ███████░░░░░░░░░░░░░░░░░░   26.80 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      13 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -85,7 +89,7 @@ JavaScript               1 repo              ████░░░░░░░�
 
 
 
- Last Updated on 14/02/2026 01:46:46 UTC
+ Last Updated on 15/02/2026 01:55:58 UTC
 <!--END_SECTION:waka-->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
