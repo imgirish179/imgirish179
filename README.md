@@ -16,9 +16,9 @@
 [![](https://visitcount.itsvg.in/api?id=imgirish179&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-10%20hrs%2023%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-12%20hrs%2048%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-15.23%20thousand%20lines%20of%20code-blue?style=flat)
 
@@ -61,21 +61,20 @@ Sunday                   2 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   2 hrs 12 mins       ███████████████░░░░░░░░░░   58.95 % 
-JavaScript               1 hr 22 mins        █████████░░░░░░░░░░░░░░░░   36.69 % 
-HTML                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
-Bash                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
-Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
+Python                   2 hrs 42 mins       ███████████████░░░░░░░░░░   60.95 % 
+JavaScript               1 hr 32 mins        █████████░░░░░░░░░░░░░░░░   34.64 % 
+HTML                     8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 % 
+Bash                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.83 % 
+Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 45 mins       █████████████████████████   100.00 % 
+VS Code                  4 hrs 27 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-iitm-courses             3 hrs 42 mins       █████████████████████████   98.95 % 
-microblog                2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
+iitm-courses             4 hrs 27 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      3 hrs 45 mins       █████████████████████████   100.00 % 
+Mac                      4 hrs 27 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -91,7 +90,7 @@ JavaScript               1 repo              ████░░░░░░░�
 
 
 
- Last Updated on 23/02/2026 01:52:43 UTC
+ Last Updated on 24/02/2026 01:49:56 UTC
 <!--END_SECTION:waka-->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
