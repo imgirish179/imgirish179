@@ -16,7 +16,7 @@
 [![](https://visitcount.itsvg.in/api?id=imgirish179&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-21%20hrs%2019%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-21%20hrs%2032%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -61,17 +61,17 @@ Sunday                   2 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Python                   1 hr 8 mins         ███████████████████████░░   93.01 % 
-JavaScript               5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.99 % 
+Python                   1 hr 8 mins         █████████████████████████   99.90 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 
 🔥 Editors: 
-VS Code                  1 hr 13 mins        █████████████████████████   100.00 % 
+VS Code                  1 hr 8 mins         █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-iitm-courses             1 hr 13 mins        █████████████████████████   100.00 % 
+iitm-courses             1 hr 8 mins         █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      1 hr 13 mins        █████████████████████████   100.00 % 
+Mac                      1 hr 8 mins         █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -87,7 +87,7 @@ JavaScript               1 repo              ████░░░░░░░�
 
 
 
- Last Updated on 24/03/2026 01:48:29 UTC
+ Last Updated on 25/03/2026 01:54:14 UTC
 <!--END_SECTION:waka-->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
